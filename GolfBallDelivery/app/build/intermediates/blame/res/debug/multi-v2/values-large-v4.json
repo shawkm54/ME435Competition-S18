@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\shawkm\\Documents\\Y3- 3rd Quarter\\ME435\\Lab 5\\GolfBallDelivery1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+            "outputFile": "C:\\Users\\shawkm\\Documents\\GolfBallDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
             "map": [
                 {
                     "source": "C:\\Users\\shawkm\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\2d2d42d8e810b95b1fbc17440e5d567a\\res\\values-large-v4\\values-large-v4.xml",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\shawkm\\Documents\\Y3- 3rd Quarter\\ME435\\Lab 5\\GolfBallDelivery1\\app\\src\\main\\res\\values-large\\styles.xml",
+                    "source": "C:\\Users\\shawkm\\Documents\\GolfBallDelivery\\app\\src\\main\\res\\values-large\\styles.xml",
                     "from": {
                         "startLines": "2,11,22,34,27,15",
                         "startColumns": "4,4,4,4,4,4",
